@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.eddiegwk.githelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.eddiegwk.githelper.MyBundle
 
 class MyApplicationService {
 
